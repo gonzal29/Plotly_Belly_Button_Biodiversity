@@ -82,7 +82,7 @@ function buildMetadata(metaSample){
     };
     var bubbleData = [trace1];
     var layout = {
-      title: 'Marker Size and Color',
+      title: 'Bar Chart',
       showlegend: false,
       xaxis: {title:"OTU ID "},
       margin: {t:30}
